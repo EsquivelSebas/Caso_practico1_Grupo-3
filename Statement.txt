@@ -1,0 +1,9 @@
+1. Registro de usuario, el usuario debe ser único y debe subir una foto de perfil. 20pts
+2. Login, donde se debe confirmar que el usuario existe y la contraseña es la correcta. 10pts
+3. La vista principal, debe tener en la esquina superior el nombre y la foto de perfil del
+usuario. 10pts
+4. En la vista general se debe mostrar el juego. 30pts
+5. Al terminar la partida, se debe ver una vista con el resultado y luego retorna a la vista
+principal. 10pts
+6. Se debe de guardar un historial de partidas con resultados, usuario, duración de la partida.
+20pts
