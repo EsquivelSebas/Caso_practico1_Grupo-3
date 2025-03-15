@@ -1,0 +1,6 @@
+@casoPractico_1_Grup03_HostAddress = http://localhost:5085
+
+GET {{casoPractico_1_Grup03_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
