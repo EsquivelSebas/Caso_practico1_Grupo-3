@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programación_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj": {}
+    "C:\\dev\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programación_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj": {
+    "C:\\dev\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programación_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj",
+        "projectUniqueName": "C:\\dev\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj",
         "projectName": "casoPractico#1_Grup03",
-        "projectPath": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programación_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj",
-        "packagesPath": "C:\\Users\\sebaw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programación_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\obj\\",
+        "projectPath": "C:\\dev\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj",
+        "packagesPath": "C:\\Users\\Sebastian\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sebaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -50,6 +50,30 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
