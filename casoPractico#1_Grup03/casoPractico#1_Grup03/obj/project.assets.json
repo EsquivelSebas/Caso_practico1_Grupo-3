@@ -3795,39 +3795,23 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\Daniel\\.nuget\\packages\\": {},
-=======
-    "C:\\Users\\sebaw\\.nuget\\packages\\": {},
->>>>>>> 3e5c4c813a20088bd994b57aafb5b4fee29e5ae3
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj",
       "projectName": "casoPractico#1_Grup03",
       "projectPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj",
       "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programación_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj",
-      "projectName": "casoPractico#1_Grup03",
-      "projectPath": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programación_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj",
-      "packagesPath": "C:\\Users\\sebaw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programación_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\obj\\",
->>>>>>> 3e5c4c813a20088bd994b57aafb5b4fee29e5ae3
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
         "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\sebaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 3e5c4c813a20088bd994b57aafb5b4fee29e5ae3
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3911,5 +3895,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
