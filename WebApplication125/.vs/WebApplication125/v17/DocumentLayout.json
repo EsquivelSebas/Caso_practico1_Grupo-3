@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\crud\\userscrud.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\crud\\userscrud.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\crud\\userscrud.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\crud\\userscrud.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\models\\usuariomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\models\\usuariomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\crud\\userscrud.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\crud\\userscrud.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\models\\usuariomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\models\\usuariomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -122,8 +122,7 @@
               "RelativeToolTip": "WebApplication125\\Pages\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T07:13:09.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T07:13:09.147Z"
             },
             {
               "$type": "Document",
@@ -135,25 +134,24 @@
               "RelativeToolTip": "WebApplication125\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T04:24:42.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T04:24:42.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UsersCrud.cshtml",
               "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\CRUD\\UsersCrud.cshtml",
               "RelativeDocumentMoniker": "WebApplication125\\Pages\\CRUD\\UsersCrud.cshtml",
               "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\CRUD\\UsersCrud.cshtml",
               "RelativeToolTip": "WebApplication125\\Pages\\CRUD\\UsersCrud.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-16T07:36:11.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UsuarioModels.cs",
               "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Models\\UsuarioModels.cs",
               "RelativeDocumentMoniker": "WebApplication125\\Models\\UsuarioModels.cs",
@@ -161,8 +159,7 @@
               "RelativeToolTip": "WebApplication125\\Models\\UsuarioModels.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T03:58:42.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T03:58:42.387Z"
             },
             {
               "$type": "Document",
@@ -174,12 +171,11 @@
               "RelativeToolTip": "WebApplication125\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T05:00:43.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T05:00:43.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UsersCrud.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\CRUD\\UsersCrud.cshtml.cs",
               "RelativeDocumentMoniker": "WebApplication125\\Pages\\CRUD\\UsersCrud.cshtml.cs",
@@ -200,8 +196,7 @@
               "RelativeToolTip": "WebApplication125\\Models\\VideojuegoModels.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T04:14:15.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T04:14:15.531Z"
             },
             {
               "$type": "Document",
@@ -213,8 +208,7 @@
               "RelativeToolTip": "WebApplication125\\Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T07:13:32.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T07:13:32.802Z"
             },
             {
               "$type": "Document",
@@ -226,8 +220,7 @@
               "RelativeToolTip": "WebApplication125\\Models\\HistorialModels.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T03:58:40.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T03:58:40.953Z"
             },
             {
               "$type": "Document",
@@ -239,8 +232,7 @@
               "RelativeToolTip": "WebApplication125\\Services\\UsuarioService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwBIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T03:56:11.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T03:56:11.474Z"
             },
             {
               "$type": "Document",
@@ -252,18 +244,17 @@
               "RelativeToolTip": "WebApplication125\\Services\\HistorialService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T03:55:47.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T03:55:47.001Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication125\\appsettings.json",
               "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\appsettings.json",
               "RelativeToolTip": "WebApplication125\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-16T07:10:55.938Z",
               "EditorCaption": ""
@@ -278,8 +269,7 @@
               "RelativeToolTip": "WebApplication125\\Pages\\Integrantes.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T05:00:44.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T05:00:44.556Z"
             },
             {
               "$type": "Document",
@@ -291,8 +281,7 @@
               "RelativeToolTip": "WebApplication125\\Pages\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T05:00:41.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T05:00:41.954Z"
             },
             {
               "$type": "Document",
@@ -304,8 +293,7 @@
               "RelativeToolTip": "WebApplication125\\Pages\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T07:13:33.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T07:13:33.638Z"
             },
             {
               "$type": "Document",
@@ -317,8 +305,7 @@
               "RelativeToolTip": "WebApplication125\\Data\\WebApplication125Context.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T07:58:47.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T07:58:47.306Z"
             },
             {
               "$type": "Document",
@@ -330,8 +317,7 @@
               "RelativeToolTip": "WebApplication125\\Pages\\Historical.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T05:00:42.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T05:00:42.693Z"
             },
             {
               "$type": "Document",
@@ -343,8 +329,7 @@
               "RelativeToolTip": "WebApplication125\\Pages\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T04:24:36.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T04:24:36.914Z"
             },
             {
               "$type": "Document",
@@ -356,8 +341,7 @@
               "RelativeToolTip": "WebApplication125\\Services\\VideojuegoService.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAewD4AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T03:56:15.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T03:56:15.684Z"
             },
             {
               "$type": "Document",
@@ -369,8 +353,7 @@
               "RelativeToolTip": "WebApplication125\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T07:13:37.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T07:13:37.056Z"
             },
             {
               "$type": "Document",
@@ -382,8 +365,7 @@
               "RelativeToolTip": "WebApplication125\\Pages\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T07:14:47.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T07:14:47.664Z"
             },
             {
               "$type": "Document",
@@ -395,8 +377,7 @@
               "RelativeToolTip": "WebApplication125\\Pages\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T07:14:50.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T07:14:50.565Z"
             },
             {
               "$type": "Document",
@@ -408,8 +389,7 @@
               "RelativeToolTip": "WebApplication125\\Pages\\Login.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T07:13:15.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T07:13:15.895Z"
             },
             {
               "$type": "Document",
@@ -421,8 +401,7 @@
               "RelativeToolTip": "WebApplication125\\Pages\\Videos.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T05:00:45.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T05:00:45.387Z"
             },
             {
               "$type": "Document",
@@ -434,8 +413,7 @@
               "RelativeToolTip": "WebApplication125\\Pages\\Error.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T05:02:00.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T05:02:00.713Z"
             }
           ]
         }
