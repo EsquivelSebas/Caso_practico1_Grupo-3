@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj": {}
+    "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj": {
+    "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj",
         "projectName": "casoPractico#1_Grup03",
-        "projectPath": "C:\\dev\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj",
-        "packagesPath": "C:\\Users\\Sebastian\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\obj\\",
+        "projectPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
