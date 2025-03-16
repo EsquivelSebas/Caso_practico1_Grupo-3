@@ -676,6 +676,10 @@
           "contraseña": {
             "type": "string",
             "nullable": true
+          },
+          "imagen": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
