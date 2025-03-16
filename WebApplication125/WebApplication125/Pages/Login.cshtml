@@ -1,44 +1,49 @@
 ﻿@page
 @model WebApplication125.Pages.LoginModel
 @{
-	ViewData["Title"] = "Login";
-
-
+    ViewData["Title"] = "Login";
 }
 
 <h2>🔑 Iniciar Sesión</h2>
 
-
-
-<form method="post" asp-controller="_UsuarioModel">
+<form method="post">
     <div class="mb-3">
-        <label for="" class="form-label">Nombre usuario</label>
+        <label for="Nombre_Usuario" class="form-label">Nombre usuario</label>
         <input type="text"
                class="form-control"
-               aria-describedby="helpId"
+               id="Nombre_Usuario"
+               name="Nombre_Usuario"
                placeholder="Ingrese su nombre"
                required />
-        <small id="helpId" class="form-text text-muted"></small>
     </div>
 
     <div class="mb-3">
-        <label for="" class="form-label">Contraseña</label>
+        <label for="Contraseña" class="form-label">Contraseña</label>
         <input type="password"
                class="form-control"
-               aria-describedby="helpId"
+               id="Contraseña"
+               name="Contraseña"
                placeholder="Ingrese su contraseña"
                required />
-        <small id="helpId" class="form-text text-muted"></small>
     </div>
 
     <div class="mb-3">
-        <button type="submit" class="btn btn-primary">
-            Entrar
-        </button>
+        <button type="submit" class="btn btn-primary">Entrar</button>
     </div>
 </form>
 
+@if (!string.IsNullOrEmpty(Model.Mensaje))
+{
+    <div class="alert alert-danger alert-dismissible fade show"
+         role="alert">
+        <button type="button"
+                class="btn-close"
+                data-bs-dismiss="alert"
+                aria-label="Close"></button>
+        <strong>Mensaje de error: </strong> @Model.Mensaje
+    </div>
 
+}
 
 
 

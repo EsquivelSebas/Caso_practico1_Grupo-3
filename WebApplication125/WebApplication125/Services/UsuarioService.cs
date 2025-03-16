@@ -67,13 +67,7 @@ namespace WebApplication125.Services
             return response.IsSuccessStatusCode;
         
         }
-
-
-
-
-
-
-
+    
     }
 }
 
