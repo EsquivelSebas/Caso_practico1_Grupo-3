@@ -48,5 +48,25 @@ namespace WebApplication125.Services
             return response.IsSuccessStatusCode;
 
         }
+
+        public async Task<bool> UpdateHistorialesAsync(HistorialModels historiales)
+        {
+            var jsonHistoriales = JsonSerializer.Serialize(historiales);
+            var content = new StringContent(jsonHistoriales, Encoding.UTF8, "application/json");
+
+            var response = await _httpClient.PutAsync($"{_apiUrl}{historiales.Id}", content);
+
+            return response.IsSuccessStatusCode;
+
+        }
+
+        public async Task<bool> DeleteHistorialesAsync(int id)
+        {
+            var response = await _httpClient.DeleteAsync($"{_apiUrl}{id}");
+
+            return response.IsSuccessStatusCode;
+
+        }
+
     }
 }
