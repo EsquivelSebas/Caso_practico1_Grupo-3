@@ -17,77 +17,65 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplication125
 build_property.RootNamespace = WebApplication125
-build_property.ProjectDir = C:\Users\Daniel\Documents\GitHub\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\
+build_property.ProjectDir = C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Daniel\Documents\GitHub\Caso_practico1_Grupo-3\WebApplication125\WebApplication125
+build_property.MSBuildProjectDirectory = C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-<<<<<<< HEAD
-[C:/Users/Daniel/Documents/GitHub/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/Error.cshtml]
-=======
 [C:/Users/sebaw/OneDrive/Universidad/Cuatri 7/Programación_Avanzada/Caso_Practico_grupal/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/CRUD/UsersCrud.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1JVRFxVc2Vyc0NydWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/sebaw/OneDrive/Universidad/Cuatri 7/Programación_Avanzada/Caso_Practico_grupal/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/Error.cshtml]
->>>>>>> 3e5c4c813a20088bd994b57aafb5b4fee29e5ae3
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/Documents/GitHub/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/Historical.cshtml]
+[C:/Users/sebaw/OneDrive/Universidad/Cuatri 7/Programación_Avanzada/Caso_Practico_grupal/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/Historical.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGlzdG9yaWNhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/Documents/GitHub/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/Index.cshtml]
+[C:/Users/sebaw/OneDrive/Universidad/Cuatri 7/Programación_Avanzada/Caso_Practico_grupal/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/Documents/GitHub/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/Integrantes.cshtml]
+[C:/Users/sebaw/OneDrive/Universidad/Cuatri 7/Programación_Avanzada/Caso_Practico_grupal/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/Integrantes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW50ZWdyYW50ZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-<<<<<<< HEAD
-[C:/Users/Daniel/Documents/GitHub/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Daniel/Documents/GitHub/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/Privacy.cshtml]
-=======
 [C:/Users/sebaw/OneDrive/Universidad/Cuatri 7/Programación_Avanzada/Caso_Practico_grupal/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/sebaw/OneDrive/Universidad/Cuatri 7/Programación_Avanzada/Caso_Practico_grupal/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/Privacy.cshtml]
->>>>>>> 3e5c4c813a20088bd994b57aafb5b4fee29e5ae3
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/Documents/GitHub/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/Register.cshtml]
+[C:/Users/sebaw/OneDrive/Universidad/Cuatri 7/Programación_Avanzada/Caso_Practico_grupal/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/Documents/GitHub/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/sebaw/OneDrive/Universidad/Cuatri 7/Programación_Avanzada/Caso_Practico_grupal/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/Documents/GitHub/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/Videos.cshtml]
+[C:/Users/sebaw/OneDrive/Universidad/Cuatri 7/Programación_Avanzada/Caso_Practico_grupal/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/Videos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlkZW9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/Documents/GitHub/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/_ViewImports.cshtml]
+[C:/Users/sebaw/OneDrive/Universidad/Cuatri 7/Programación_Avanzada/Caso_Practico_grupal/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/Documents/GitHub/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/_ViewStart.cshtml]
+[C:/Users/sebaw/OneDrive/Universidad/Cuatri 7/Programación_Avanzada/Caso_Practico_grupal/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Daniel/Documents/GitHub/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/Shared/_Layout.cshtml]
+[C:/Users/sebaw/OneDrive/Universidad/Cuatri 7/Programación_Avanzada/Caso_Practico_grupal/Caso_practico1_Grupo-3/WebApplication125/WebApplication125/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-g203aqnqek
