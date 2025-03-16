@@ -17,8 +17,8 @@ namespace WebApplication125.Services
         public UsuarioService(HttpClient httpClient, IConfiguration configuration)
         {
             _httpClient = httpClient;
-            _apiUrl = configuration["ApiUrl"] + "Product/";
-            //  "ApiUrl": "https://localhost:7258/api/Product/"
+            _apiUrl = configuration["ApiUrl"] + "Usuarios/";
+            //  "ApiUrl": "https://localhost:7258/api/Usuarios/"
         }
 
         public async Task<List<UsuarioModels>> GetUsuariosAsync()

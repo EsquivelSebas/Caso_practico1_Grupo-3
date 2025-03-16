@@ -1,0 +1,47 @@
+﻿@page
+@model WebApplication125.Pages.CRUD.UsersCrudModel
+@{
+	ViewData["Title"] = "Usuario CRUD";
+}
+
+<h2>Usuario CRUD</h2>
+
+<form method="post">
+	<div class="mb-3">
+		<label for="nombre" class="form-label">ID</label>
+		<input type="text" class="form-control" id="id" aria-describedby="idHelp" placeholder="Ingrese su ID" required
+			   asp-for="_UsuarioModels.Id" />
+		<small id="nombreHelp" class="form-text text-muted"></small>
+	</div>
+	<div class="mb-3">
+		<label for="apellido" class="form-label">Nombre</label>
+		<input type="text" class="form-control" id="Nombre" aria-describedby="nombreHelp" placeholder="Ingrese su Nombre" required
+			   asp-for="_UsuarioModels.Nombre_Usuario" />
+		<small id="apellidoHelp" class="form-text text-muted"></small>
+	</div>
+	<div class="mb-3">
+		<label for="correo" class="form-label">Contraseña</label>
+		<input type="password" class="form-control" id="Contraseña" aria-describedby="ContraHelp" placeholder="Ingrese su Contraseña" required
+			   asp-for="_UsuarioModels.Contraseña" />
+		<small id="correoHelp" class="form-text text-muted"></small>
+	</div>
+	<div class="mb-3">
+		<label for="imagen" class="form-label">Imagen</label>
+		<input type="file" class="form-control" id="imagen" aria-describedby="imagenHelp" required
+			   asp-for="_UsuarioModels.imagen" />
+		<small id="imagenHelp" class="form-text text-muted"></small>
+	</div>
+
+	<div class="mb-3">
+		<button type="submit" class="btn btn-primary">
+			Guardar
+		</button>
+	</div>
+</form>
+
+
+ @if (!String.IsNullOrEmpty(Model.Mensaje)){
+    <div class="alert alert-info" role="alert">
+        @Model.Mensaje
+    </div>
+ }

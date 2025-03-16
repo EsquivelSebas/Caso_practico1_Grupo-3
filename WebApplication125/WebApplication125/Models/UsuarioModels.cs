@@ -8,5 +8,7 @@
 
         public string Contraseña { get; set; } = string.Empty;
 
+        public string imagen { get; set; } = string.Empty;
+
     }
 }

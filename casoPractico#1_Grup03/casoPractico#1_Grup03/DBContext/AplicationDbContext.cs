@@ -14,8 +14,11 @@ namespace casoPractico_1_Grup03.DBContext
         //just define the name of the set with an s at the end
         //doesn't matter if the name isn't proper english.
 
+
         public DbSet<Usuarios> G3Usuario { get; set; }
 
         public DbSet<Historial> G3Historial { get; set; }
+
+        public DbSet<Videojuego> G3Videojuego { get; set; }
     }
 }

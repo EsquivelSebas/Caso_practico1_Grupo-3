@@ -5,10 +5,10 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Historial": {
+    "/api/Historials": {
       "get": {
         "tags": [
-          "Historial"
+          "Historials"
         ],
         "responses": {
           "200": {
@@ -44,7 +44,7 @@
       },
       "post": {
         "tags": [
-          "Historial"
+          "Historials"
         ],
         "requestBody": {
           "content": {
@@ -89,10 +89,10 @@
         }
       }
     },
-    "/api/Historial/{id}": {
+    "/api/Historials/{id}": {
       "get": {
         "tags": [
-          "Historial"
+          "Historials"
         ],
         "parameters": [
           {
@@ -130,7 +130,7 @@
       },
       "put": {
         "tags": [
-          "Historial"
+          "Historials"
         ],
         "parameters": [
           {
@@ -170,7 +170,7 @@
       },
       "delete": {
         "tags": [
-          "Historial"
+          "Historials"
         ],
         "parameters": [
           {
@@ -185,24 +185,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/Historial"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Historial"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Historial"
-                }
-              }
-            }
+            "description": "OK"
           }
         }
       }
@@ -409,6 +392,208 @@
         }
       }
     },
+    "/api/Videojuegos": {
+      "get": {
+        "tags": [
+          "Videojuegos"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Videojuego"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Videojuego"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Videojuego"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Videojuegos"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Videojuego"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Videojuego"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Videojuego"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videojuego"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videojuego"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videojuego"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Videojuegos/{id}": {
+      "get": {
+        "tags": [
+          "Videojuegos"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videojuego"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videojuego"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videojuego"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Videojuegos"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Videojuego"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Videojuego"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Videojuego"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Videojuegos"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videojuego"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videojuego"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videojuego"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -458,19 +643,19 @@
             "type": "integer",
             "format": "int32"
           },
-          "cantidad_puntos": {
+          "cantidad_Puntos": {
             "type": "integer",
             "format": "int32"
           },
-          "duracion_partida": {
+          "duracion_Partida": {
             "type": "string",
             "format": "date-time"
           },
-          "id_usuario": {
+          "id_Usuario": {
             "type": "integer",
             "format": "int32"
           },
-          "id_videojuego": {
+          "id_Videojuego": {
             "type": "integer",
             "format": "int32"
           }
@@ -489,6 +674,32 @@
             "nullable": true
           },
           "contraseña": {
+            "type": "string",
+            "nullable": true
+          },
+          "imagen": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Videojuego": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nombre_Videojuego": {
+            "type": "string",
+            "nullable": true
+          },
+          "categoria": {
+            "type": "string",
+            "nullable": true
+          },
+          "calificacion_Pegi": {
             "type": "string",
             "nullable": true
           }
