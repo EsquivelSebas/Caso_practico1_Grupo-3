@@ -37,5 +37,35 @@ namespace WebApplication125.Services
             ) ?? new List<VideojuegoModels>();
 
         }
+
+        public async Task<bool> AddVideojuegosAsync(VideojuegoModels videojuegos)
+        {
+            var jsonVideojuegos = JsonSerializer.Serialize(videojuegos);
+            var content = new StringContent(jsonVideojuegos, Encoding.UTF8, "application/json");
+
+            var response = await _httpClient.PostAsync(_apiUrl, content);
+
+            return response.IsSuccessStatusCode;
+
+        }
+
+        public async Task<bool> UpdateVideojuegosAsync(VideojuegoModels videojuegos)
+        {
+            var jsonVideojuegos = JsonSerializer.Serialize(videojuegos);
+            var content = new StringContent(jsonVideojuegos, Encoding.UTF8, "application/json");
+
+            var response = await _httpClient.PutAsync($"{_apiUrl}{videojuegos.Id}", content);
+
+            return response.IsSuccessStatusCode;
+
+        }
+
+        public async Task<bool> DeleteVideojuegosAsync(int id)
+        {
+            var response = await _httpClient.DeleteAsync($"{_apiUrl}{id}");
+
+            return response.IsSuccessStatusCode;
+
+        }
     }
 }

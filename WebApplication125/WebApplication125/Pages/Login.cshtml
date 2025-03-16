@@ -1,0 +1,46 @@
+﻿@page
+@model WebApplication125.Pages.LoginModel
+@{
+	ViewData["Title"] = "Login";
+
+
+}
+
+<h2>🔑 Iniciar Sesión</h2>
+
+
+
+<form method="post" asp-controller="_UsuarioModel">
+    <div class="mb-3">
+        <label for="" class="form-label">Nombre usuario</label>
+        <input type="text"
+               class="form-control"
+               aria-describedby="helpId"
+               placeholder="Ingrese su nombre"
+               required />
+        <small id="helpId" class="form-text text-muted"></small>
+    </div>
+
+    <div class="mb-3">
+        <label for="" class="form-label">Contraseña</label>
+        <input type="password"
+               class="form-control"
+               aria-describedby="helpId"
+               placeholder="Ingrese su contraseña"
+               required />
+        <small id="helpId" class="form-text text-muted"></small>
+    </div>
+
+    <div class="mb-3">
+        <button type="submit" class="btn btn-primary">
+            Entrar
+        </button>
+    </div>
+</form>
+
+
+
+
+
+
+
