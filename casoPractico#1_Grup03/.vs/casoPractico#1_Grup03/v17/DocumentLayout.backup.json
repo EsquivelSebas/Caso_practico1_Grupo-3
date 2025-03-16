@@ -1,12 +1,87 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A58318-D8B5-41C8-A797-D6E222DEDF82}|casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\casopractico#1_grup03\\casopractico#1_grup03\\dbcontext\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A58318-D8B5-41C8-A797-D6E222DEDF82}|casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj|solutionrelative:casopractico#1_grup03\\dbcontext\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A58318-D8B5-41C8-A797-D6E222DEDF82}|casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\casopractico#1_grup03\\casopractico#1_grup03\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A58318-D8B5-41C8-A797-D6E222DEDF82}|casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj|solutionrelative:casopractico#1_grup03\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A58318-D8B5-41C8-A797-D6E222DEDF82}|casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\casopractico#1_grup03\\casopractico#1_grup03\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4A58318-D8B5-41C8-A797-D6E222DEDF82}|casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj|solutionrelative:casopractico#1_grup03\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A58318-D8B5-41C8-A797-D6E222DEDF82}|casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\casopractico#1_grup03\\casopractico#1_grup03\\casopractico#1_grup03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4A58318-D8B5-41C8-A797-D6E222DEDF82}|casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj|solutionrelative:casopractico#1_grup03\\casopractico#1_grup03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\DBContext\\DbContext.cs",
+              "RelativeDocumentMoniker": "casoPractico#1_Grup03\\DBContext\\DbContext.cs",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\DBContext\\DbContext.cs",
+              "RelativeToolTip": "casoPractico#1_Grup03\\DBContext\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:12:18.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "casoPractico#1_Grup03.csproj",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj",
+              "RelativeDocumentMoniker": "casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj",
+              "RelativeToolTip": "casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T23:10:58.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "casoPractico#1_Grup03\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "casoPractico#1_Grup03\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:19:33.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "casoPractico#1_Grup03\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\Properties\\launchSettings.json",
+              "RelativeToolTip": "casoPractico#1_Grup03\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T22:19:31.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\services\\historialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\services\\historialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\models\\usuariomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\models\\usuariomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\services\\videojuegoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\services\\videojuegoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\models\\videojuegomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\models\\videojuegomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\models\\historialmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\models\\historialmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication125\\Program.cs",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Program.cs",
+              "RelativeToolTip": "WebApplication125\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T04:24:42.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication125\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApplication125\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T04:24:36.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VideojuegoModels.cs",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Models\\VideojuegoModels.cs",
+              "RelativeDocumentMoniker": "WebApplication125\\Models\\VideojuegoModels.cs",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Models\\VideojuegoModels.cs",
+              "RelativeToolTip": "WebApplication125\\Models\\VideojuegoModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T04:14:15.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioModels.cs",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Models\\UsuarioModels.cs",
+              "RelativeDocumentMoniker": "WebApplication125\\Models\\UsuarioModels.cs",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Models\\UsuarioModels.cs",
+              "RelativeToolTip": "WebApplication125\\Models\\UsuarioModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T03:58:42.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HistorialModels.cs",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Models\\HistorialModels.cs",
+              "RelativeDocumentMoniker": "WebApplication125\\Models\\HistorialModels.cs",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Models\\HistorialModels.cs",
+              "RelativeToolTip": "WebApplication125\\Models\\HistorialModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T03:58:40.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VideojuegoService.cs",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Services\\VideojuegoService.cs",
+              "RelativeDocumentMoniker": "WebApplication125\\Services\\VideojuegoService.cs",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Services\\VideojuegoService.cs",
+              "RelativeToolTip": "WebApplication125\\Services\\VideojuegoService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T03:56:15.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "WebApplication125\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "WebApplication125\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T03:56:11.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HistorialService.cs",
+              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Services\\HistorialService.cs",
+              "RelativeDocumentMoniker": "WebApplication125\\Services\\HistorialService.cs",
+              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Services\\HistorialService.cs",
+              "RelativeToolTip": "WebApplication125\\Services\\HistorialService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T03:55:47.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
