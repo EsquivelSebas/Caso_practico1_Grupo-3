@@ -1,5 +1,4 @@
 using casoPractico_1_Grup03.DBContext;
-using casoPractico_1_Grup03.Services;
 //librerias o nugestusing Microsoft.EntityFr
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -22,7 +21,7 @@ builder.Services.AddDbContext<AplicationDbContext>(
 
 
 //registro de memoria o servicio web 
-builder.Services.AddSingleton<HistorialService>();
+
 
 
 // Add services to the container.
