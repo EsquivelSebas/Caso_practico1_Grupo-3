@@ -13,6 +13,12 @@ namespace casoPractico_1_Grup03.DBContext
         // Define DbSets for your entities
         //just define the name of the set with an s at the end
         //doesn't matter if the name isn't proper english.
+<<<<<<< HEAD
+=======
+
+        public DbSet<Usuarios> G3Usuario { get; set; }
+
+>>>>>>> 160fc3dfb9e7b559a845deabc4cf0ca0747c645e
         public DbSet<Historial> G3Historial { get; set; }
     }
 }

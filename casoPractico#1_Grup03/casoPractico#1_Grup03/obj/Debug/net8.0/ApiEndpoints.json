@@ -1,8 +1,14 @@
 [
   {
+<<<<<<< HEAD
     "ContainingType": "casoPractico_1_Grup03.Controllers.HistorialsController",
     "Method": "GetHistorials",
     "RelativePath": "api/Historials",
+=======
+    "ContainingType": "casoPractico_1_Grup03.Controllers.HistorialController",
+    "Method": "GetHistorial",
+    "RelativePath": "api/Historial",
+>>>>>>> 160fc3dfb9e7b559a845deabc4cf0ca0747c645e
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -20,9 +26,15 @@
     ]
   },
   {
+<<<<<<< HEAD
     "ContainingType": "casoPractico_1_Grup03.Controllers.HistorialsController",
     "Method": "AddHistorial",
     "RelativePath": "api/Historials",
+=======
+    "ContainingType": "casoPractico_1_Grup03.Controllers.HistorialController",
+    "Method": "AddUsers",
+    "RelativePath": "api/Historial",
+>>>>>>> 160fc3dfb9e7b559a845deabc4cf0ca0747c645e
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -46,9 +58,15 @@
     ]
   },
   {
+<<<<<<< HEAD
     "ContainingType": "casoPractico_1_Grup03.Controllers.HistorialsController",
     "Method": "GetHistorialById",
     "RelativePath": "api/Historials/{id}",
+=======
+    "ContainingType": "casoPractico_1_Grup03.Controllers.HistorialController",
+    "Method": "GetHistorialByID",
+    "RelativePath": "api/Historial/{id}",
+>>>>>>> 160fc3dfb9e7b559a845deabc4cf0ca0747c645e
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -72,9 +90,15 @@
     ]
   },
   {
+<<<<<<< HEAD
     "ContainingType": "casoPractico_1_Grup03.Controllers.HistorialsController",
     "Method": "UpdateHistorial",
     "RelativePath": "api/Historials/{id}",
+=======
+    "ContainingType": "casoPractico_1_Grup03.Controllers.HistorialController",
+    "Method": "UpdateUserById",
+    "RelativePath": "api/Historial/{id}",
+>>>>>>> 160fc3dfb9e7b559a845deabc4cf0ca0747c645e
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -93,9 +117,15 @@
     "ReturnTypes": []
   },
   {
+<<<<<<< HEAD
     "ContainingType": "casoPractico_1_Grup03.Controllers.HistorialsController",
     "Method": "DeleteHistorial",
     "RelativePath": "api/Historials/{id}",
+=======
+    "ContainingType": "casoPractico_1_Grup03.Controllers.HistorialController",
+    "Method": "deleteUsersByID",
+    "RelativePath": "api/Historial/{id}",
+>>>>>>> 160fc3dfb9e7b559a845deabc4cf0ca0747c645e
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -106,9 +136,144 @@
         "IsRequired": true
       }
     ],
+<<<<<<< HEAD
     "ReturnTypes": []
   },
   {
+=======
+    "ReturnTypes": [
+      {
+        "Type": "casoPractico_1_Grup03.Models.Historial",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "casoPractico_1_Grup03.Controllers.UsuariosController",
+    "Method": "GetUsers",
+    "RelativePath": "api/Usuarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[casoPractico_1_Grup03.Models.Usuarios, casoPractico#1_Grup03, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "casoPractico_1_Grup03.Controllers.UsuariosController",
+    "Method": "AddUsers",
+    "RelativePath": "api/Usuarios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarios",
+        "Type": "casoPractico_1_Grup03.Models.Usuarios",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "casoPractico_1_Grup03.Models.Usuarios",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "casoPractico_1_Grup03.Controllers.UsuariosController",
+    "Method": "GetUsersByID",
+    "RelativePath": "api/Usuarios/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "casoPractico_1_Grup03.Models.Usuarios",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "casoPractico_1_Grup03.Controllers.UsuariosController",
+    "Method": "UpdateUserById",
+    "RelativePath": "api/Usuarios/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "usuarios",
+        "Type": "casoPractico_1_Grup03.Models.Usuarios",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "casoPractico_1_Grup03.Controllers.UsuariosController",
+    "Method": "deleteUsersByID",
+    "RelativePath": "api/Usuarios/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "casoPractico_1_Grup03.Models.Usuarios",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+>>>>>>> 160fc3dfb9e7b559a845deabc4cf0ca0747c645e
     "ContainingType": "casoPractico_1_Grup03.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
