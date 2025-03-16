@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\",
   "Documents": [
     {
@@ -106,10 +107,17 @@
       "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\videos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
+=======
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\WebApplication125\\",
+  "Documents": [],
+>>>>>>> d808dc1d43bb519ac9f3d8fcee56387d5872c6a3
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
+      "DocumentGroups": []
+=======
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -438,6 +446,7 @@
           ]
         }
       ]
+>>>>>>> 2335dee13ef101d3090855ed3ca54409688aad16
     }
   ]
 }

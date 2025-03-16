@@ -1,5 +1,13 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+=======
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\",
+  "Documents": [],
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> d808dc1d43bb519ac9f3d8fcee56387d5872c6a3
   "WorkspaceRootPath": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\",
   "Documents": [
     {
@@ -59,10 +67,22 @@
       "RelativeMoniker": "D:0:0:{F4A58318-D8B5-41C8-A797-D6E222DEDF82}|casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj|solutionrelative:casopractico#1_grup03\\casopractico#1_grup03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
+<<<<<<< HEAD
+=======
+>>>>>>> 3e5c4c813a20088bd994b57aafb5b4fee29e5ae3
+>>>>>>> 2335dee13ef101d3090855ed3ca54409688aad16
+>>>>>>> d808dc1d43bb519ac9f3d8fcee56387d5872c6a3
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
+=======
+      "DocumentGroups": []
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> d808dc1d43bb519ac9f3d8fcee56387d5872c6a3
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -240,6 +260,11 @@
           ]
         }
       ]
+<<<<<<< HEAD
+=======
+>>>>>>> 3e5c4c813a20088bd994b57aafb5b4fee29e5ae3
+>>>>>>> 2335dee13ef101d3090855ed3ca54409688aad16
+>>>>>>> d808dc1d43bb519ac9f3d8fcee56387d5872c6a3
     }
   ]
 }

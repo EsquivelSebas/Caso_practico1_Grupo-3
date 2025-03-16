@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\",
   "Documents": [
     {
@@ -11,6 +12,14 @@
       "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\crud\\userscrud.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+=======
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\WebApplication125\\",
+  "Documents": [
+    {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniel\\AppData\\Local\\SourceServer\\c3886428a8571760d5545572acb40ee70ece8ce8d93fb20fbfd75099888c3c82\\WebApplication125\\WebApplication125\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+>>>>>>> d808dc1d43bb519ac9f3d8fcee56387d5872c6a3
       "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\crud\\userscrud.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\crud\\userscrud.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -101,6 +110,7 @@
     {
       "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\videos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\videos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+>>>>>>> 2335dee13ef101d3090855ed3ca54409688aad16
     }
   ],
   "DocumentGroupContainers": [
@@ -110,7 +120,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 4,
+=======
+<<<<<<< HEAD
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\AppData\\Local\\SourceServer\\c3886428a8571760d5545572acb40ee70ece8ce8d93fb20fbfd75099888c3c82\\WebApplication125\\WebApplication125\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\c3886428a8571760d5545572acb40ee70ece8ce8d93fb20fbfd75099888c3c82\\WebApplication125\\WebApplication125\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\AppData\\Local\\SourceServer\\c3886428a8571760d5545572acb40ee70ece8ce8d93fb20fbfd75099888c3c82\\WebApplication125\\WebApplication125\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\c3886428a8571760d5545572acb40ee70ece8ce8d93fb20fbfd75099888c3c82\\WebApplication125\\WebApplication125\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T22:16:02.459Z",
+              "EditorCaption": ""
+=======
+          "SelectedChildIndex": 2,
+>>>>>>> d808dc1d43bb519ac9f3d8fcee56387d5872c6a3
           "Children": [
             {
               "$type": "Document",
@@ -418,6 +448,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T05:02:00.713Z"
+>>>>>>> 2335dee13ef101d3090855ed3ca54409688aad16
             }
           ]
         }
