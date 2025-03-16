@@ -1,0 +1,33 @@
+﻿@page
+@model WebApplication125.Pages.IndexModel
+
+@{
+    ViewData["Title"] = "Usuario";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre usuario</th>
+            <th>Imagen Perfil</th>
+       
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var itemusuario in Model._UsuarioModels)
+        {
+            <tr>
+                <td>@itemusuario.Id</td>
+                <td>@itemusuario.Nombre_Usuario</td>
+            </tr>
+        }
+    </tbody>
+
+
+</table>

@@ -1,0 +1,53 @@
+﻿@page
+@model WebApplication125.Pages.RegisterModel
+@{
+	ViewData["Title"] = "Registrar datos";
+
+
+}
+
+<h2>Registrar usuarios</h2>
+
+<form method="post">
+
+
+	<div class="mb-3">
+		<label for="" class="form-label">Nombre usuario</label>
+		<input type="text"
+			   class="form-control"
+			   aria-describedby="helpId"
+			   placeholder="Ingrese su nombre"
+			   asp-formaction="_UsuarioModel.Nombre_Usuario" required />
+		<small id="helpId" class="form-text" text-muted></small>
+
+	</div>
+
+	<div class="mb-3">
+		<label for="" class="form-label">Contraseña</label>
+		<input type="text"
+			   class="form-control"
+			   aria-describedby="helpId"
+			   placeholder="Ingrese su contraseña"
+			   asp-formaction="_UsuarioModel.Contraseña" required />
+		<small id="helpId" class="form-text" text-muted></small>
+	</div>
+	
+	<div class="mb-3">
+		<button type="submit" class="btn btn-primary">
+			Guardar</button>
+	</div>
+
+</form>
+
+
+@if ( !string.IsNullOrEmpty(Model.Mensaje)){
+	<div class="alert alert-danger alert-dismissible fade show"
+		 role="alert">
+		<button type="button"
+				class="btn-close"
+				data-bs-dismiss="alert"
+				aria-label="Close"></button>
+		<strong>Mensaje de error: </strong> @Model.Mensaje
+	</div>
+
+}

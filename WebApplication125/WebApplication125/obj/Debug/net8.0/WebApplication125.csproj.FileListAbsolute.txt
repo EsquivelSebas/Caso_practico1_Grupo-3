@@ -1,0 +1,151 @@
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\appsettings.json
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.staticwebassets.runtime.json
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.staticwebassets.endpoints.json
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.exe
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.deps.json
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.runtimeconfig.json
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.dll
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.pdb
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.AssemblyInfoInputs.cache
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.AssemblyInfo.cs
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.csproj.CoreCompileInputs.cache
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.RazorAssemblyInfo.cache
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.RazorAssemblyInfo.cs
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\scopedcss\bundle\WebApplication125.styles.css
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication125.bundle.scp.css
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication125.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication125.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication125.props
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication125.props
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication125.props
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.dll
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\refint\WebApplication125.dll
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.pdb
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.genruntimeconfig.cache
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\ref\WebApplication125.dll
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.csproj.AssemblyReference.cache
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\obj\Debug\net8.0\WebAppli.39561C92.Up2Date
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Mario Espinoza\source\repos\WebApplication125\WebApplication125\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.RazorAssemblyInfo.cache
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.RazorAssemblyInfo.cs
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.dll
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\refint\WebApplication125.dll
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.pdb
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\appsettings.json
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.staticwebassets.endpoints.json
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.staticwebassets.runtime.json
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.exe
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.deps.json
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.runtimeconfig.json
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.dll
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.pdb
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\scopedcss\bundle\WebApplication125.styles.css
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication125.bundle.scp.css
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication125.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication125.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication125.props
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication125.props
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication125.props
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\WebAppli.39561C92.Up2Date
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\WebApplication125\WebApplication125\obj\Debug\net8.0\ref\WebApplication125.dll
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\appsettings.json
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.staticwebassets.endpoints.json
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.staticwebassets.runtime.json
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.exe
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.deps.json
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.runtimeconfig.json
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.dll
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\WebApplication125.pdb
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.csproj.AssemblyReference.cache
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.AssemblyInfoInputs.cache
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.AssemblyInfo.cs
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.csproj.CoreCompileInputs.cache
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.RazorAssemblyInfo.cache
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.RazorAssemblyInfo.cs
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.sourcelink.json
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\scopedcss\bundle\WebApplication125.styles.css
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication125.bundle.scp.css
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication125.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication125.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication125.props
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication125.props
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication125.props
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\WebAppli.39561C92.Up2Date
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.dll
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\refint\WebApplication125.dll
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.pdb
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\WebApplication125.genruntimeconfig.cache
+C:\Users\sebaw\OneDrive\Universidad\Cuatri 7\Programación_Avanzada\Caso_Practico_grupal\Caso_practico1_Grupo-3\WebApplication125\WebApplication125\obj\Debug\net8.0\ref\WebApplication125.dll
