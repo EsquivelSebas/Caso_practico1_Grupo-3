@@ -5,17 +5,10 @@
     "version": "1.0"
   },
   "paths": {
-<<<<<<< HEAD
     "/api/Historials": {
       "get": {
         "tags": [
           "Historials"
-=======
-    "/api/Historial": {
-      "get": {
-        "tags": [
-          "Historial"
->>>>>>> 160fc3dfb9e7b559a845deabc4cf0ca0747c645e
         ],
         "responses": {
           "200": {
@@ -51,11 +44,7 @@
       },
       "post": {
         "tags": [
-<<<<<<< HEAD
           "Historials"
-=======
-          "Historial"
->>>>>>> 160fc3dfb9e7b559a845deabc4cf0ca0747c645e
         ],
         "requestBody": {
           "content": {
@@ -100,17 +89,10 @@
         }
       }
     },
-<<<<<<< HEAD
     "/api/Historials/{id}": {
       "get": {
         "tags": [
           "Historials"
-=======
-    "/api/Historial/{id}": {
-      "get": {
-        "tags": [
-          "Historial"
->>>>>>> 160fc3dfb9e7b559a845deabc4cf0ca0747c645e
         ],
         "parameters": [
           {
@@ -148,11 +130,7 @@
       },
       "put": {
         "tags": [
-<<<<<<< HEAD
           "Historials"
-=======
-          "Historial"
->>>>>>> 160fc3dfb9e7b559a845deabc4cf0ca0747c645e
         ],
         "parameters": [
           {
@@ -192,11 +170,7 @@
       },
       "delete": {
         "tags": [
-<<<<<<< HEAD
           "Historials"
-=======
-          "Historial"
->>>>>>> 160fc3dfb9e7b559a845deabc4cf0ca0747c645e
         ],
         "parameters": [
           {
@@ -211,27 +185,7 @@
         ],
         "responses": {
           "200": {
-<<<<<<< HEAD
             "description": "OK"
-=======
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/Historial"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Historial"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Historial"
-                }
-              }
-            }
           }
         }
       }
@@ -434,7 +388,208 @@
                 }
               }
             }
->>>>>>> 160fc3dfb9e7b559a845deabc4cf0ca0747c645e
+          }
+        }
+      }
+    },
+    "/api/Videojuegos": {
+      "get": {
+        "tags": [
+          "Videojuegos"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Videojuego"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Videojuego"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Videojuego"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Videojuegos"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Videojuego"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Videojuego"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Videojuego"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videojuego"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videojuego"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videojuego"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Videojuegos/{id}": {
+      "get": {
+        "tags": [
+          "Videojuegos"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videojuego"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videojuego"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videojuego"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Videojuegos"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Videojuego"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Videojuego"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Videojuego"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Videojuegos"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videojuego"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videojuego"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Videojuego"
+                }
+              }
+            }
           }
         }
       }
@@ -488,7 +643,6 @@
             "type": "integer",
             "format": "int32"
           },
-<<<<<<< HEAD
           "cantidad_Puntos": {
             "type": "integer",
             "format": "int32"
@@ -502,29 +656,12 @@
             "format": "int32"
           },
           "id_Videojuego": {
-=======
-          "cantidad_puntos": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "duracion_partida": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "id_usuario": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "id_videojuego": {
->>>>>>> 160fc3dfb9e7b559a845deabc4cf0ca0747c645e
             "type": "integer",
             "format": "int32"
           }
         },
         "additionalProperties": false
       },
-<<<<<<< HEAD
-=======
       "Usuarios": {
         "type": "object",
         "properties": {
@@ -543,7 +680,28 @@
         },
         "additionalProperties": false
       },
->>>>>>> 160fc3dfb9e7b559a845deabc4cf0ca0747c645e
+      "Videojuego": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nombre_Videojuego": {
+            "type": "string",
+            "nullable": true
+          },
+          "categoria": {
+            "type": "string",
+            "nullable": true
+          },
+          "calificacion_Pegi": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "WeatherForecast": {
         "type": "object",
         "properties": {
