@@ -1,0 +1,32 @@
+﻿@page
+@model WebApplication125.Pages.CRUD.DeleteUsersModel
+@{
+    ViewData["Title"] = "Usuario Delete";
+}
+
+<h2>Usuario Delete</h2>
+
+@if (Model.User != null)
+{
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">Are you sure you want to delete this user?</h5>
+
+             <p class="card-text">Id: @itemusuario.Id</p>
+            <p class="card-text"> Name: @itemusuario.Nombre_Usuario</p>
+            <p class="card-text">Image: @itemusuario.imagen</p> 
+
+            <form method="post">
+                <input type="hidden" asp-for="itemusuario.Id" />
+                <a class="btn btn-danger" asp-page="DeleteUsers" asp-route-id="@itemusuario.Id" role="button">Eliminar</a>
+                <a class="btn btn-secondary" asp-page="Index" asp-route-id="@itemusuario.Id" role="button">Cancelar</a>
+            </form>
+        </div>
+    </div>
+}
+else
+{
+    <div class="alert alert-danger" role="alert">
+        User not found.
+    </div>
+}

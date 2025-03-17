@@ -4,18 +4,19 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using WebApplication125.Models;
+using WebApplication125.Services;
 
 namespace WebApplication125.Pages.CRUD
 {
     public class UsersCrudModel : PageModel
     {
-        private readonly HttpClient _httpclient;
+        private readonly UsuarioService _usuarioService;
 
 
-        public UsersCrudModel(HttpClient httpClient)
+        public UsersCrudModel(UsuarioService usuarioService)
 
         {
-            _httpclient = httpClient;
+            _usuarioService = usuarioService;
 
         }
 
@@ -32,23 +33,23 @@ namespace WebApplication125.Pages.CRUD
         public async Task<IActionResult> OnPostAsync()
         {
             if (!ModelState.IsValid)
-            {
-                Mensaje = "Datos Invalidos";
+           {
+               Mensaje = "Datos Invalidos";
                 return Page();
             }
 
-            try
+           try
             {
-                var jsonUsuarios = JsonSerializer.Serialize(_UsuarioModels);
-                var content = new StringContent(jsonUsuarios, Encoding.UTF8, "application/json");
-                var response = await _httpclient.PostAsync("api/Usuarios", content);
-                if (response.IsSuccessStatusCode)
+                //var jsonUsuarios = JsonSerializer.Serialize(_UsuarioModels);
+                //var content = new StringContent(jsonUsuarios, Encoding.UTF8, "application/json");
+                var response = await _usuarioService.AddUsuariosAsync(_UsuarioModels);
+                if (response)
                 {
                     Mensaje = "Producto Agregado";
-                    return RedirectToPage("Index");
+                   return RedirectToPage("Usuario");
                 }
                 else
-                {
+               {
                     Mensaje = "Ocurrio un error al agregar el producto";
                     return Page();
                 }

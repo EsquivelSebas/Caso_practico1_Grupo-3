@@ -15,6 +15,7 @@
             <th>Id</th>
             <th>Nombre usuario</th>
             <th>Imagen Perfil</th>
+            <th>Acciones</th>
         </tr>
     </thead>
     <tbody>
@@ -23,6 +24,12 @@
             <tr>
                 <td>@itemusuario.Id</td>
                 <td>@itemusuario.Nombre_Usuario</td>
+                <td>@itemusuario.imagen</td>
+				<td>
+                    <a class="btn btn-dark" asp-page="UpdateUsers" asp-route-id="@itemusuario.Id" role="button">Editar</a>
+                    | <a class="btn btn-danger" asp-page="DeleteUsers" asp-route-id="@itemusuario.Id" role="button">Eliminar</a>
+                    
+                </td>
             </tr>
         }
     </tbody>

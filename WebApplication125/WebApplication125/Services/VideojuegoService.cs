@@ -17,8 +17,8 @@ namespace WebApplication125.Services
         public VideojuegoService(HttpClient httpClient, IConfiguration configuration)
         {
             _httpClient = httpClient;
-            _apiUrl = configuration["ApiUrl"] + "Product/";
-            //  "ApiUrl": "https://localhost:7258/api/Product/"
+            _apiUrl = configuration["ApiUrl"] + "Videojuego/";
+            //  "ApiUrl": "https://localhost:7258/api/Videojuego/"
         }
 
         public async Task<List<VideojuegoModels>> GetVideojuegosAsync()

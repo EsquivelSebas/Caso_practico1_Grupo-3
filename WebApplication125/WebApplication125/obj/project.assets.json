@@ -8426,11 +8426,7 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-<<<<<<< HEAD
       "message": "Problem reading the cache file C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programación_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-=======
-      "message": "Problema al leer el archivo de caché C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
->>>>>>> d808dc1d43bb519ac9f3d8fcee56387d5872c6a3
     }
   ]
 }
