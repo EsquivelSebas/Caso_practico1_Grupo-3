@@ -18,7 +18,7 @@ namespace WebApplication125.Services
         {
             _httpClient = httpClient;
             _apiUrl = configuration["ApiUrl"] + "Product/";
-            //  "ApiUrl": "https://localhost:7258/api/Product/"
+            //  "ApiUrl": "https://localhost:7233/api/Product/"
         }
 
         public async Task<List<HistorialModels>> GetHistorialesAsync()

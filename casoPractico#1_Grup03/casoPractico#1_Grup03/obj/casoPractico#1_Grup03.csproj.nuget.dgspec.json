@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programación_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programación_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programación_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj",
-        "projectName": "casoPractico#1_Grup03",
-        "projectPath": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programación_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj",
-        "packagesPath": "C:\\Users\\sebaw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programación_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\obj\\",
-=======
     "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj": {}
   },
   "projects": {
@@ -25,17 +12,12 @@
         "projectPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\casoPractico#1_Grup03.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\casoPractico#1_Grup03\\casoPractico#1_Grup03\\obj\\",
->>>>>>> d808dc1d43bb519ac9f3d8fcee56387d5872c6a3
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-<<<<<<< HEAD
-          "C:\\Users\\sebaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
           "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> d808dc1d43bb519ac9f3d8fcee56387d5872c6a3
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

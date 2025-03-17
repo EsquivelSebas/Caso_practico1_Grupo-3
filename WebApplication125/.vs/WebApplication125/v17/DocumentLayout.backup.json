@@ -1,124 +1,16 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\",
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\WebApplication125\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\daniel\\documents\\github\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\services\\historialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\services\\historialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sebaw\\AppData\\Local\\SourceServer\\c3886428a8571760d5545572acb40ee70ece8ce8d93fb20fbfd75099888c3c82\\WebApplication125\\WebApplication125\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\crud\\userscrud.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\crud\\userscrud.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\crud\\userscrud.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\crud\\userscrud.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\models\\usuariomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\models\\usuariomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\models\\historialmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\models\\historialmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\data\\webapplication125context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\data\\webapplication125context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\integrantes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\integrantes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\models\\videojuegomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\models\\videojuegomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\historical.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\historical.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\daniel\\documents\\github\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\services\\videojuegoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\services\\videojuegoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\videos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\videos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
-=======
-  "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\WebApplication125\\",
-<<<<<<< HEAD
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniel\\AppData\\Local\\SourceServer\\c3886428a8571760d5545572acb40ee70ece8ce8d93fb20fbfd75099888c3c82\\WebApplication125\\WebApplication125\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
-=======
-  "Documents": [],
->>>>>>> d808dc1d43bb519ac9f3d8fcee56387d5872c6a3
->>>>>>> 475e4487b96f4579f6c7943af6582fdce339193e
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -126,344 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\AppData\\Local\\SourceServer\\c3886428a8571760d5545572acb40ee70ece8ce8d93fb20fbfd75099888c3c82\\WebApplication125\\WebApplication125\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\c3886428a8571760d5545572acb40ee70ece8ce8d93fb20fbfd75099888c3c82\\WebApplication125\\WebApplication125\\Program.cs",
-              "ToolTip": "C:\\Users\\Daniel\\AppData\\Local\\SourceServer\\c3886428a8571760d5545572acb40ee70ece8ce8d93fb20fbfd75099888c3c82\\WebApplication125\\WebApplication125\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\c3886428a8571760d5545572acb40ee70ece8ce8d93fb20fbfd75099888c3c82\\WebApplication125\\WebApplication125\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T22:16:02.459Z",
-              "EditorCaption": ""
-=======
-          "SelectedChildIndex": 8,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "VideojuegoModels.cs",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Models\\VideojuegoModels.cs",
-              "RelativeDocumentMoniker": "WebApplication125\\Models\\VideojuegoModels.cs",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Models\\VideojuegoModels.cs",
-              "RelativeToolTip": "WebApplication125\\Models\\VideojuegoModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T04:14:15.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebApplication125\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebApplication125\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication125\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Login.cshtml",
+              "RelativeToolTip": "WebApplication125\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T07:13:32.802Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HistorialModels.cs",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Models\\HistorialModels.cs",
-              "RelativeDocumentMoniker": "WebApplication125\\Models\\HistorialModels.cs",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Models\\HistorialModels.cs",
-              "RelativeToolTip": "WebApplication125\\Models\\HistorialModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T03:58:40.953Z"
+              "WhenOpened": "2025-03-17T00:16:55.015Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "WebApplication125\\Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "WebApplication125\\Services\\UsuarioService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T03:56:11.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HistorialService.cs",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Services\\HistorialService.cs",
-              "RelativeDocumentMoniker": "WebApplication125\\Services\\HistorialService.cs",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Services\\HistorialService.cs",
-              "RelativeToolTip": "WebApplication125\\Services\\HistorialService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T03:55:47.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplication125\\appsettings.json",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\appsettings.json",
-              "RelativeToolTip": "WebApplication125\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-16T07:10:55.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UsersCrud.cshtml",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\CRUD\\UsersCrud.cshtml",
-              "RelativeDocumentMoniker": "WebApplication125\\Pages\\CRUD\\UsersCrud.cshtml",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\CRUD\\UsersCrud.cshtml",
-              "RelativeToolTip": "WebApplication125\\Pages\\CRUD\\UsersCrud.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T07:36:11.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication125\\Program.cs",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Program.cs",
-              "RelativeToolTip": "WebApplication125\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T04:24:42.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Login.cshtml",
-              "RelativeDocumentMoniker": "WebApplication125\\Pages\\Login.cshtml",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Login.cshtml",
-              "RelativeToolTip": "WebApplication125\\Pages\\Login.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T07:13:09.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsersCrud.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\CRUD\\UsersCrud.cshtml.cs",
-              "RelativeDocumentMoniker": "WebApplication125\\Pages\\CRUD\\UsersCrud.cshtml.cs",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\CRUD\\UsersCrud.cshtml.cs",
-              "RelativeToolTip": "WebApplication125\\Pages\\CRUD\\UsersCrud.cshtml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T07:52:25.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication125\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Index.cshtml",
-              "RelativeToolTip": "WebApplication125\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T05:00:43.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UsuarioModels.cs",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Models\\UsuarioModels.cs",
-              "RelativeDocumentMoniker": "WebApplication125\\Models\\UsuarioModels.cs",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Models\\UsuarioModels.cs",
-              "RelativeToolTip": "WebApplication125\\Models\\UsuarioModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T03:58:42.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sebaw\\AppData\\Local\\SourceServer\\c3886428a8571760d5545572acb40ee70ece8ce8d93fb20fbfd75099888c3c82\\WebApplication125\\WebApplication125\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\c3886428a8571760d5545572acb40ee70ece8ce8d93fb20fbfd75099888c3c82\\WebApplication125\\WebApplication125\\Program.cs",
-              "ToolTip": "C:\\Users\\sebaw\\AppData\\Local\\SourceServer\\c3886428a8571760d5545572acb40ee70ece8ce8d93fb20fbfd75099888c3c82\\WebApplication125\\WebApplication125\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\c3886428a8571760d5545572acb40ee70ece8ce8d93fb20fbfd75099888c3c82\\WebApplication125\\WebApplication125\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T22:22:20.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Integrantes.cshtml",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Integrantes.cshtml",
-              "RelativeDocumentMoniker": "WebApplication125\\Pages\\Integrantes.cshtml",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Integrantes.cshtml",
-              "RelativeToolTip": "WebApplication125\\Pages\\Integrantes.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T05:00:44.556Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Error.cshtml",
-              "RelativeDocumentMoniker": "WebApplication125\\Pages\\Error.cshtml",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Error.cshtml",
-              "RelativeToolTip": "WebApplication125\\Pages\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T05:00:41.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "WebApplication125\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "WebApplication125\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T07:13:33.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WebApplication125Context.cs",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Data\\WebApplication125Context.cs",
-              "RelativeDocumentMoniker": "WebApplication125\\Data\\WebApplication125Context.cs",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Data\\WebApplication125Context.cs",
-              "RelativeToolTip": "WebApplication125\\Data\\WebApplication125Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T07:58:47.306Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Historical.cshtml",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Historical.cshtml",
-              "RelativeDocumentMoniker": "WebApplication125\\Pages\\Historical.cshtml",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Historical.cshtml",
-              "RelativeToolTip": "WebApplication125\\Pages\\Historical.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T05:00:42.693Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "WebApplication125\\Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "WebApplication125\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T04:24:36.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "VideojuegoService.cs",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Services\\VideojuegoService.cs",
-              "RelativeDocumentMoniker": "WebApplication125\\Services\\VideojuegoService.cs",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Services\\VideojuegoService.cs",
-              "RelativeToolTip": "WebApplication125\\Services\\VideojuegoService.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAewD4AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T03:56:15.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication125\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication125\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T07:13:37.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "WebApplication125\\Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Privacy.cshtml",
-              "RelativeToolTip": "WebApplication125\\Pages\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T07:14:47.664Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Register.cshtml",
-              "RelativeDocumentMoniker": "WebApplication125\\Pages\\Register.cshtml",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Register.cshtml",
-              "RelativeToolTip": "WebApplication125\\Pages\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T07:14:50.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "WebApplication125\\Pages\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Login.cshtml.cs",
               "RelativeToolTip": "WebApplication125\\Pages\\Login.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T07:13:15.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Videos.cshtml",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Videos.cshtml",
-              "RelativeDocumentMoniker": "WebApplication125\\Pages\\Videos.cshtml",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Videos.cshtml",
-              "RelativeToolTip": "WebApplication125\\Pages\\Videos.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T05:00:45.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Error.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Error.cshtml.cs",
-              "RelativeDocumentMoniker": "WebApplication125\\Pages\\Error.cshtml.cs",
-              "ToolTip": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Error.cshtml.cs",
-              "RelativeToolTip": "WebApplication125\\Pages\\Error.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T05:02:00.713Z"
->>>>>>> 475e4487b96f4579f6c7943af6582fdce339193e
+              "WhenOpened": "2025-03-17T00:09:31.01Z",
+              "EditorCaption": ""
             }
           ]
         }
