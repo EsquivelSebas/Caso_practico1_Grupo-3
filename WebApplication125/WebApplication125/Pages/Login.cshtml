@@ -6,13 +6,13 @@
 
 <h2>🔑 Iniciar Sesión</h2>
 
-<form method="post" asp-controller="_UsuarioModel">
+<form method="post">
     <div class="mb-3">
         <label for="Nombre_Usuario" class="form-label">Nombre usuario</label>
         <input type="text"
                class="form-control"
                id="Nombre_Usuario"
-               name="Nombre_Usuario"
+               name="Usuario.Nombre_Usuario"
                placeholder="Ingrese su nombre"
                required />
     </div>
@@ -22,7 +22,7 @@
         <input type="password"
                class="form-control"
                id="Contraseña"
-               name="Contraseña"
+               name="Usuario.Contraseña"
                placeholder="Ingrese su contraseña"
                required />
     </div>
@@ -34,12 +34,8 @@
 
 @if (!string.IsNullOrEmpty(Model.Mensaje))
 {
-    <div class="alert alert-danger alert-dismissible fade show"
-         role="alert">
-        <button type="button"
-                class="btn-close"
-                data-bs-dismiss="alert"
-                aria-label="Close"></button>
-        <strong>Mensaje de error: </strong> @Model.Mensaje
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong>Error:</strong> @Model.Mensaje
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
     </div>
 }

@@ -18,7 +18,7 @@ namespace WebApplication125.Services
         {
             _httpClient = httpClient;
             _apiUrl = configuration["ApiUrl"] + "Usuarios/";
-            //  "ApiUrl": "https://localhost:7258/api/Usuarios/"
+            //  "ApiUrl": "https://localhost:7233/api/Usuarios/"
         }
 
         public async Task<List<UsuarioModels>> GetUsuariosAsync()

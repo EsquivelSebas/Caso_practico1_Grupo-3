@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\",
   "Documents": [
     {
@@ -100,6 +101,17 @@
     {
       "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\sebaw\\onedrive\\universidad\\cuatri 7\\programaci\u00F3n_avanzada\\caso_practico_grupal\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\historical.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\historical.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\WebApplication125\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\daniel\\documents\\github\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|c:\\users\\daniel\\documents\\github\\caso_practico1_grupo-3\\webapplication125\\webapplication125\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB110480-C1D9-4A96-BD63-589250AB863B}|WebApplication125\\WebApplication125.csproj|solutionrelative:webapplication125\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 3dc6e12a87d834fdcebbfde252970950f260cebd
     }
   ],
   "DocumentGroupContainers": [
@@ -114,6 +126,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "DeleteUsers.cshtml",
               "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\CRUD\\DeleteUsers.cshtml",
               "RelativeDocumentMoniker": "WebApplication125\\Pages\\CRUD\\DeleteUsers.cshtml",
@@ -148,11 +161,22 @@
               "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T23:42:41.458Z",
+=======
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication125\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Login.cshtml",
+              "RelativeToolTip": "WebApplication125\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T00:16:55.015Z",
+>>>>>>> 3dc6e12a87d834fdcebbfde252970950f260cebd
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "UsersCrud.cshtml",
               "DocumentMoniker": "C:\\Users\\sebaw\\OneDrive\\Universidad\\Cuatri 7\\Programaci\u00F3n_Avanzada\\Caso_Practico_grupal\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\CRUD\\UsersCrud.cshtml",
               "RelativeDocumentMoniker": "WebApplication125\\Pages\\CRUD\\UsersCrud.cshtml",
@@ -423,6 +447,17 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-16T22:29:52.96Z"
+=======
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication125\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Caso_practico1_Grupo-3\\WebApplication125\\WebApplication125\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "WebApplication125\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T00:09:31.01Z",
+              "EditorCaption": ""
+>>>>>>> 3dc6e12a87d834fdcebbfde252970950f260cebd
             }
           ]
         }

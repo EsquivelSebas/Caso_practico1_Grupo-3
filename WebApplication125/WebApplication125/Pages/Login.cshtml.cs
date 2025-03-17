@@ -9,30 +9,43 @@ namespace WebApplication125.Pages
     {
         private readonly UsuarioService _usuarioService;
 
-
         public LoginModel(UsuarioService usuarioService)
         {
             _usuarioService = usuarioService;
         }
 
         [BindProperty]
-
-        public UsuarioModels _UsuarioModel { get; set; } = new();
+        public UsuarioModels Usuario { get; set; } = new();
 
         public string Mensaje { get; set; } = string.Empty;
 
-        public async Task<IActionResult> OnPostAsync(string nombre, string contraseña)
+        public void OnGet()
         {
-            var usuarios = await _usuarioService.GetUsuariosAsync();
-            _UsuarioModel = usuarios.FirstOrDefault(u => u.Nombre_Usuario == nombre && u.Contraseña == contraseña);
-            if(_UsuarioModel == null)
-            {
-                return NotFound();
-            }
-            return RedirectToPage("Index");
-
+            // Inicializa cualquier dato necesario para la vista (opcional).
         }
-           
+
+        public async Task<IActionResult> OnPostAsync()
+        {
+            if (string.IsNullOrWhiteSpace(Usuario.Nombre_Usuario) || string.IsNullOrWhiteSpace(Usuario.Contraseña))
+            {
+                Mensaje = "El nombre de usuario y la contraseña son obligatorios.";
+                return Page();
+            }
+
+            var usuarios = await _usuarioService.GetUsuariosAsync();
+            var usuarioValido = usuarios.FirstOrDefault(u =>
+                u.Nombre_Usuario == Usuario.Nombre_Usuario &&
+                u.Contraseña == Usuario.Contraseña);
+
+            if (usuarioValido == null)
+            {
+                Mensaje = "Credenciales incorrectas. Por favor, inténtalo de nuevo.";
+                return Page();
+            }
+
+            
+            return RedirectToPage("Register");
+        }
     }
 }
 
